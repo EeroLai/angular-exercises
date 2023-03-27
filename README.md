@@ -29,3 +29,8 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ## plugins
 
 - Angular Material 
+
+
+## document
+
+- (Angular UI比較)[https://www.dropbox.com/scl/fi/0spgzh7qdep2y5k76dc5j/2018-Angular-%E5%B8%B8%E8%A6%8B-UI-%E5%85%83%E4%BB%B6%E5%BA%AB%E5%84%AA%E5%8A%A3%E5%88%86%E6%9E%90.paper?dl=0&fbclid=IwAR3c3IC4mYGT535ySkDvfA13WweMgpZ-2qrhBeYF5TPEfToTKyLpmkK_XdY&rlkey=7p45gizsms6ollxv8878v2kwh]
