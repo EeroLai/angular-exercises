@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { getUser } from 'src/app/services/api/user.service';
 
 @Component({
   selector: 'app-root',
@@ -7,4 +8,7 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'test';
+
+  //example
+  test = getUser(1);
 }
