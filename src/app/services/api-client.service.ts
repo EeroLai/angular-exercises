@@ -1,8 +1,8 @@
 import axios, { AxiosInstance } from 'axios';
 
 export class ApiClient {
-  private readonly client: AxiosInstance;
   private readonly baseURL = 'https://api.example.com';
+  private readonly client: AxiosInstance;
   
   constructor() {
     this.client = axios.create({ 'baseURL': this.baseURL });
